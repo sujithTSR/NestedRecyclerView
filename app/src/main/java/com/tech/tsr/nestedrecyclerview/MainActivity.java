@@ -1,5 +1,4 @@
-git status
-        package com.tech.tsr.nestedrecyclerview;
+package com.tech.tsr.nestedrecyclerview;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
